@@ -121,13 +121,13 @@ ul, li {
 	border-bottom: 					1px dashed #555;
 }
 
-img[src="/img/darryl.jpg"],
-img[src="/img/huojie.jpg"] {
+img[src*="/img/darryl.jpg"],
+img[src*="/img/huojie.jpg"] {
 	border-radius:					999px;
 	width: 							33%;
 }
 
-img[src="/img/darrylandhuojie.jpg"] {
+img[src*="/img/darrylandhuojie.jpg"] {
 	border-radius:					999px;
 	width: 							50%;
 }

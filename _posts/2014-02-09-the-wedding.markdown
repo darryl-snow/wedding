@@ -77,10 +77,10 @@ Here's what will happen:
   This will take place outside - if it's too sunny there will be umbrellas provided. The bride and groom will walk the aisle and take vows given by the best man.
 * **17:00 - Drinks**
 
-  A bit of time for drinks and nibbles while waiting for guests to arrive. We will have a small putting green available to us, if anyone's interested?
+  A bit of time for drinks and nibbles while waiting for guests to arrive and deliver their red envelopes. We will have a small putting green available to us, if anyone's interested?
 * **18:00 - Dinner**
 
-  Guests arrive (around 150 in total), present their red envelopes and then begin to feast. Each table will seat 10 people with no pre-arranged seating arrangement. There will be around 20 dishes, featuring all the most delicious animals as well as a couple of vegetables, and a few bottles of red wine, rice wine, and soft drinks on each table. During or after the meal there will be speeches from the groom, the parents, and the best man.
+  Guests arrive (around 150 in total), present their red envelopes and then begin to feast. Each table will seat 10 people with no pre-arranged seating arrangement. There will be around 20 dishes, featuring all the most delicious animals as well as a couple of vegetables, and a few bottles of red wine, rice wine, and soft drinks on each table. During or after the meal there will be speeches from the groom, the bride, the parents, and the best man.
 * **20:00 - KTV?**
 
   TBC
