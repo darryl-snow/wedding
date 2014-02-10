@@ -43,7 +43,7 @@ img {
 	webkit-box-shadow: 				0 3px 5px rgba(0,0,0, 0.4);
 	-moz-box-shadow:				0 3px 5px rgba(0,0,0, 0.4);
 	box-shadow:						0 3px 5px rgba(0,0,0, 0.4);
-	margin:  						1em;
+	margin:  						0.5em;
 	overflow: 						hidden;
 	padding: 						1em;
 	text-align: 					center;
@@ -76,6 +76,10 @@ h2 {
 
 h3 {
 	font-size: 						2em;
+}
+
+header h3 {
+	font-size: 						1.5em;
 }
 
 h2:first-of-type {
@@ -136,6 +140,7 @@ blockquote {
 	background: 					rgba(255,255,255,0.2);
 	font-size: 						1.2em;
 	font-weight: 					300;
+	margin: 						0;
 	padding: 						0.5em;
 }
 
@@ -168,6 +173,10 @@ blockquote {
 }
 
 @media (min-width: 600px) {
+
+	blockquote {
+		margin: 					0 2em;
+	}
 
 	.panel {
 		margin: 					2em;
