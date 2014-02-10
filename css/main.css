@@ -100,6 +100,10 @@ ul, li {
 	font-family: 					"Chopin Script", "Goudy Old Style", "Bell MT", "Baskerville Old Style", Baskerville, Georgia, serif;
 }
 
+a[href="https://maps.google.com/maps/ms?msa=0&amp;msid=206286023772849323287.0004ed6b46e73e51d2a78&amp;ie=UTF8&amp;ll=24.963512,102.671063&amp;spn=0,0&amp;t=m&amp;source=embed"] {
+	display: 						block;
+}
+
 .date {
 	border-top: 					1px solid #999;
 	display: 						inline-block;
