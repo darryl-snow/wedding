@@ -1,0 +1,180 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+html,
+body {
+	margin: 						0;
+	padding: 						0;
+}
+
+body {
+	background: 					url(../img/bg.jpg) no-repeat center center fixed;
+	background-position: 			fixed;
+	-webkit-background-size: 		cover;
+	background-size: 				cover;
+	color: 							#555;
+	font-family: 					"Open Sans", helvetica-neue, helvetica, sans-serif;
+	-webkit-font-smoothing: 		antialiased;
+}
+
+a,
+a:visited {
+	color: 							#3498db;
+	-webkit-transition: 			0.2s all ease-in-out;
+	-moz-transition: 				0.2s all ease-in-out;
+	-ms-transition: 				0.2s all ease-in-out;
+	-o-transition: 					0.2s all ease-in-out;
+	transition: 					0.2s all ease-in-out;
+}
+
+a:active,
+a:focus,
+a:hover {
+	background: 					rgba(255,255,255,0.4);
+	color: 							#2980b9;
+}
+
+img {
+	border: 						3px solid rgba(255,255,255,0.4);
+}
+
+.panel {
+	background: 					#f9f9f9;
+	background: 					rgba(255,255,255, 0.7);
+	webkit-box-shadow: 				0 3px 5px rgba(0,0,0, 0.4);
+	-moz-box-shadow:				0 3px 5px rgba(0,0,0, 0.4);
+	box-shadow:						0 3px 5px rgba(0,0,0, 0.4);
+	margin:  						1em;
+	overflow: 						hidden;
+	padding: 						1em;
+	text-align: 					center;
+}
+
+.panel img {
+	height: 						auto;
+	max-width: 						100%;
+}
+
+header {
+	margin: 						1em 0;
+	text-align: 					center;
+}
+
+h1, h2, h3 {
+	font-weight: 					300;
+	margin: 						0;
+}
+
+h1 {
+	font-size: 						3em;
+	text-shadow: 					0 1px 0 rgba(255,255,255,0.5);
+}
+
+h2 {
+	font-size: 						2.5em;
+	margin-top: 					1.5em;
+}
+
+h3 {
+	font-size: 						2em;
+}
+
+h2:first-of-type {
+	margin-top: 					0;
+}
+
+ul, li {
+	list-style: 					none;
+	margin: 						0;
+	padding: 						0;
+}
+
+.chinese {
+	font-family: 					宋体;
+}
+
+.amp {
+	font-family: 					"Chopin Script", "Goudy Old Style", "Bell MT", "Baskerville Old Style", Baskerville, Georgia, serif;
+}
+
+.date {
+	border-top: 					1px solid #999;
+	display: 						inline-block;
+	font-size: 						0.9em;
+	font-style: 					italic;
+	margin-top: 					1em;
+	padding:  						1em 2em 0;
+}
+
+.date p {
+	margin: 						0;
+}
+
+.date a {
+	color: 							#555;
+	cursor: 						help;
+	text-decoration: 				none;
+}
+
+.date a:active,
+.date a:focus,
+.date a:hover {
+	border-bottom: 					1px dashed #555;
+}
+
+img[src="/img/darryl.jpg"],
+img[src="/img/huojie.jpg"] {
+	border-radius:					999px;
+	width: 							33%;
+}
+
+img[src="/img/darrylandhuojie.jpg"] {
+	border-radius:					999px;
+	width: 							50%;
+}
+
+blockquote {
+	background: 					rgba(255,255,255,0.2);
+	font-size: 						1.2em;
+	font-weight: 					300;
+	padding: 						0.5em;
+}
+
+.rsvp {
+	background: 					#3498db;
+	-webkit-border-radius: 			3px;
+	-moz-border-radius: 			3px;
+	border-radius: 					3px;
+	color: 							#fff;
+	display: 						block;
+	font-size: 						1.2em;
+	font-weight: 					300;
+	margin: 						1em auto 0;
+	padding: 						0.5em 1em;
+	text-align: 					center;
+	text-decoration: 				none;
+	width: 							45px;
+}
+
+.rsvp:active,
+.rsvp:focus,
+.rsvp:hover {
+	background: 					#2980b9;
+	color: 							#fff;
+	-webkit-transition: 			0.2s all ease-in-out;
+	-moz-transition: 				0.2s all ease-in-out;
+	-ms-transition: 				0.2s all ease-in-out;
+	-o-transition: 					0.2s all ease-in-out;
+	transition: 					0.2s all ease-in-out;
+}
+
+@media (min-width: 600px) {
+
+	.panel {
+		margin: 					2em;
+	}
+
+	.panel:first-of-type {
+		margin: 					2em 8em;
+	}
+
+}
