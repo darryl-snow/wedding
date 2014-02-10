@@ -7,21 +7,21 @@ categories: home
 
 ## About Us
 
-![Darryl](/img/darryl.jpg)
+![Darryl](/wedding/img/darryl.jpg)
 
 Darryl is a web developer from Jersey
 
-![Huojie](/img/huojie.jpg)
+![Huojie](/wedding/img/huojie.jpg)
 
 Huojie is a yoga teacher from Kunming
 
-![Us with our marriage papers](/img/darrylandhuojie.jpg)
+![Us with our marriage papers](/wedding/img/darrylandhuojie.jpg)
 
 We met at the China Meteorological Administration, where we both used to work. Our first date was on the 17<sup>th</sup> of January, 2010; we went skiing. In May that year we got a dog together, Lady. After lots more dates and holidays together, we signed marriage papers on the 1<sup>st</sup> of February, 2011. Darryl officially proposed on the banks of the River Ganges on Huojie's birthday on the 2<sup>nd</sup> of November, 2013.
 
 ## Wedding Venue
 
-[![Panoramic view of the venue](/img/venue.jpg)](/img/venue.jpg "View this image")
+[![Panoramic view of the venue](/wedding/img/venue.jpg)](/wedding/img/venue.jpg "View this image")
 
 The wedding ceremony and meal will be held at:
 
@@ -35,7 +35,7 @@ The wedding ceremony and meal will be held at:
 phone: [+86-871-431 7888](tel:00868714317888)
 web: [www.lakeview.cn](www.lakeview.cn)
 
-[![Map to the Wedding Venue](/img/map.png)](https://maps.google.com/maps/ms?msa=0&amp;msid=206286023772849323287.0004ed6b46e73e51d2a78&amp;ie=UTF8&amp;ll=24.963512,102.671063&amp;spn=0,0&amp;t=m&amp;source=embed)
+[![Map to the Wedding Venue](/wedding/img/map.png)](https://maps.google.com/maps/ms?msa=0&amp;msid=206286023772849323287.0004ed6b46e73e51d2a78&amp;ie=UTF8&amp;ll=24.963512,102.671063&amp;spn=0,0&amp;t=m&amp;source=embed)
 [View the Kunming Lakeview Golf Club on Google Maps](https://maps.google.com/maps/ms?msa=0&amp;msid=206286023772849323287.0004ed6b46e73e51d2a78&amp;ie=UTF8&amp;ll=24.963512,102.671063&amp;spn=0,0&amp;t=m&amp;source=embed)
 
 It's in the middle of a golf course (designed by [Nick Faldo](https://en.wikipedia.org/wiki/Nick_Faldo)) alongside a huge lake, about half an hour South of the city centre.
@@ -44,7 +44,7 @@ It's in the middle of a golf course (designed by [Nick Faldo](https://en.wikiped
 
 To get there take a taxi along Dianchi road, then about 500m past the Minorities Village Theme Park (民族村) there will be a left (South) turn into Lakeview Golf Course.
 
-![The turning off 滇池路](/img/turning.jpg)
+![The turning off 滇池路](/wedding/img/turning.jpg)
 
 ### Kunming
 
