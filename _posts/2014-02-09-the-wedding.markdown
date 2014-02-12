@@ -17,7 +17,13 @@ Huojie is a yoga teacher from Kunming
 
 ![Us with our marriage papers]({{ site.baseurl }}/img/darrylandhuojie.jpg)
 
-We met at the China Meteorological Administration, where we both used to work. Our first date was on the 17<sup>th</sup> of January, 2010; we went skiing. In May that year we got a dog together, Lady. After lots more dates and holidays together, we signed marriage papers on the 1<sup>st</sup> of February, 2011. Darryl officially proposed on the banks of the River Ganges on Huojie's birthday on the 2<sup>nd</sup> of November, 2013.
+We met at the China Meteorological Administration, where we both used to work. Our first date was on the 17<sup>th</sup> of January, 2010; we went skiing. We followed up with some more dates - we went to see Avatar 3 times because Huojie kept falling asleep at the beginning and missing the whole thing. In May that year we got a dog together, Lady. After lots more dates and holidays together, we signed marriage papers on the 1<sup>st</sup> of February, 2011. Darryl officially proposed on the banks of the River Ganges on Huojie's birthday on the 2<sup>nd</sup> of November, 2013.
+
+### The Best People
+
+Guy Benjamin Wescott Taylor is the best man. Darryl and Guy have been friends ever since guy knocked on Darryl's door at university on the 24th of September 2001, to invite him out for birthday drinks, and was happy to see that Darryl was wearing a T-shirt that said "Chicks dig unix" on it. It was again in celebration of Guy's birthday a few years later that Darryl came to China, and stayed.
+
+The bridesmaid is a childhood friend of Huojie's, 阿丽, who still lives in Kunming and works as a teacher.
 
 ## Wedding Venue
 
@@ -80,7 +86,7 @@ Here's what will happen:
   A bit of time for drinks and nibbles while waiting for guests to arrive and deliver their red envelopes. We will have a small putting green available to us, if anyone's interested?
 * **18:00 - Dinner**
 
-  Guests arrive (around 150 in total), present their red envelopes and then begin to feast. Each table will seat 10 people with no pre-arranged seating arrangement. There will be around 20 dishes, featuring all the most delicious animals as well as a couple of vegetables, and a few bottles of red wine, rice wine, and soft drinks on each table. During or after the meal there will be speeches from the groom, the bride, the parents, and the best man.
+  Guests arrive (around 150 in total), present their red envelopes and then begin to feast. Each table will seat 10 people with no pre-arranged seating arrangement. There will be around 20 dishes, featuring all the most delicious animals as well as a couple of vegetables, and a few bottles of red wine, rice wine, and soft drinks on each table. There should also be a couple of kegs of home-brew somewhere near the top table. During or after the meal there will be speeches from the groom, the bride, the parents, and the best man.
 * **20:00 - KTV?**
 
   TBC
